@@ -125,17 +125,4 @@ Please note that you can change the theme in the settings page and the data on t
 - `assetsDir`: commented out by default
   - Where the built minified css/js files will be copied over, this path is relative path from the `outputDir`, this can be changed in `vue.config.js` file
 
-# Future Enhancements
 
-- Check project [To do list](https://github.com/simplyvinay/vue-expenses/projects/1)
-
-# How to Contribute
-
-1. Clone repo `git clone https://github.com/simplyvinay/vue-expenses.git`
-2. Create a new branch: `git checkout -b new_branch_name`
-3. Make changes and test
-4. Submit Pull Request with description of changes
-
-## License
-
-[MIT](https://github.com/simplyvinay/vue-expenses/blob/master/LICENSE)
